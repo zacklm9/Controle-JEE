@@ -1,15 +1,26 @@
 # Controle-JEE
 objectif:
+
 Créer une application basée sur une architecture micro-service qui permet de gérer les factures contenant des produits et appartenant à un client.
+
 Travail à faire :
+
 -Créer le micro-service customer-service qui permet de gérer les client
+
 -Créer le micro-service inventory-service qui permet de gérer les produits 
+
 -Créer la Gateway Spring cloud Gateway avec une Configuration statique du système de routage
+
 -Créer l'annuaire Eureka Discrovery Service
+
 -Faire une configuration dynamique des routes de la gateway
+
 -Créer le service de facturation Billing-Service en utilisant Open Feign
+
 -Créer un client Web Angular (Clients, Produits, Factures)
+
 Solution :
+
 Le micro-service customer-service qui permet de gérer les client
 
 
